@@ -55,7 +55,7 @@ export default function Footer() {
                 <Code2 size={18} className="text-white" />
               </div>
               <span className="font-display font-black text-xl text-white tracking-tight">
-                dev<span className="text-gradient">showcase</span>
+                Amar<span className="text-gradient">showcase</span>
               </span>
             </Link>
 
@@ -159,7 +159,7 @@ export default function Footer() {
           <p className="text-slate-500 text-sm flex items-center gap-1.5">
             <span>© {year} Amardeep Showcase. Made with</span>
             <Heart size={12} className="text-red-400 fill-red-400" />
-            <span>by a developer, for developers.</span>
+            <span>by Amardeep.</span>
           </p>
 
           <div className="flex items-center gap-1.5 px-4 py-2 rounded-full glass border border-white/8">
