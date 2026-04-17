@@ -15,7 +15,7 @@ app.use(helmet());
 
 // ─── CORS ──────────────────────────────────────────────────────────────────
 const allowedOrigins = [
-  process.env.FRONTEND_URL || "http://localhost:3000",
+  process.env.FRONTEND_URL || "https://project-showcase-umber.vercel.app",
   "http://localhost:3000",
   "http://localhost:5173",
 ];
