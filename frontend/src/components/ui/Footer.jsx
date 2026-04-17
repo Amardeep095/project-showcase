@@ -6,10 +6,10 @@ import {
 } from "lucide-react";
 
 const SOCIAL_LINKS = [
-  { icon: Github,   href: "https://github.com",   label: "GitHub" },
-  { icon: Twitter,  href: "https://twitter.com",  label: "Twitter" },
-  { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-  { icon: Mail,     href: "mailto:hello@example.com", label: "Email" },
+  { icon: Github,   href: "https://github.com/Amardeep095",   label: "GitHub" },
+  { icon: Number,  href: "+91 7991167574",  label: "Number" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/amardeepkumar090/", label: "LinkedIn" },
+  { icon: Mail,     href: "mailto:1324Amardeep@gmail.com", label: "Email" },
 ];
 
 const TECH_STACK = [
@@ -157,7 +157,7 @@ export default function Footer() {
           className="flex flex-col sm:flex-row items-center justify-between gap-4"
         >
           <p className="text-slate-500 text-sm flex items-center gap-1.5">
-            <span>© {year} DevShowcase. Made with</span>
+            <span>© {year} Amardeep Showcase. Made with</span>
             <Heart size={12} className="text-red-400 fill-red-400" />
             <span>by a developer, for developers.</span>
           </p>
