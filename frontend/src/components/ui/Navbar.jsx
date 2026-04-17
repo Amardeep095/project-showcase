@@ -32,7 +32,7 @@ export default function Navbar() {
               <Code2 size={16} className="text-white" />
             </div>
             <span className="font-display font-bold text-lg text-white tracking-tight">
-              dev<span className="text-gradient">showcase</span>
+              Amar<span className="text-gradient">showcase</span>
             </span>
           </Link>
 
